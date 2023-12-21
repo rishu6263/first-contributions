@@ -4,6 +4,7 @@
   [Myint Than Tun](https://github.com/MyintThanTun)
 - [Satyam Kumar Singh](https://github.com/isat)
 - [Izaan Noman](https://github.com/izaan17)
+- [Rishabh Dwivedi](https://github.com/rishu6263)
 - Aman01k
 - Batman!
 -[Suprith Varma Brahmarauthu] (https://github.com/Suprithvarma1)
